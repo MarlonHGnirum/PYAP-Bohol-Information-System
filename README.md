@@ -4,4 +4,4 @@ This was my capstone during my final college year. This information system is ma
 <br /><br />
 <img src="/sql/Homepage.png" alt="Homepage" title="Homepage">
 <br /><br />
-<img src="/sql/Acivities.png" alt="Activities Page" title="Activities Page">
+<img src="/sql/Activities.png" alt="Activities Page" title="Activities Page">
